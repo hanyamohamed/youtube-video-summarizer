@@ -23,12 +23,10 @@ An AI-powered web application that summarizes YouTube videos using Hugging Face 
 
 ```
 youtube-video-summarizer/
-│
-├── app.py
-├── kaggle.ipynb
+├── app.py                # Streamlit application
+├── kaggle.ipynb          # Notebook implementation
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 
 ```
 
